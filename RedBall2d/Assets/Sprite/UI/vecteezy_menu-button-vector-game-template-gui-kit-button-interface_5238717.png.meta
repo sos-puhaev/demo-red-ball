@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: a60806d5a5168cf48b7fce4a3f099e3d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1050
+        width: 413
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161c96dace34444b9c666dcf6749b11
+      internalID: -1768156257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1047
+        width: 412
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d15f1153749a9448aa9e0ef2a5be4d
+      internalID: -1311188761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_2
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1050
+        width: 413
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0f251e21778d40b9d945da02cad8f
+      internalID: -577955979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_3
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1047
+        width: 414
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320dff89c679ea947b82b43b389e4554
+      internalID: -1065428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 566
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e131c08ca7837b4f944583e64db8169
+      internalID: 1962783842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 566
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93173b4818bea94f939e81f3cd67682
+      internalID: 83426822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_6
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 566
+        width: 413
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db9e31083968848bd997495cf3bade
+      internalID: 1077669538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_7
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 563
+        width: 414
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa48a9afe0dfa724db28e5fc2af74e1d
+      internalID: -228840401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 77
+        width: 412
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a008c63b72e7eb4a9c9ad8137420118
+      internalID: -2085735300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 78
+        width: 412
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9fedcad6d861a44a3156fb610f4774
+      internalID: -627774706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 78
+        width: 416
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad276d0c5f8af254c895ecdc701f2f0c
+      internalID: 108766156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 77
+        width: 414
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ce0c984ae9ba4caee5cd4552bc37c
+      internalID: 1418473391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_0: -1768156257
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_1: -1311188761
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_10: 108766156
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_11: 1418473391
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_2: -577955979
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_3: -1065428549
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_4: 1962783842
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_5: 83426822
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_6: 1077669538
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_7: -228840401
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_8: -2085735300
+      vecteezy_menu-button-vector-game-template-gui-kit-button-interface_5238717_9: -627774706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
