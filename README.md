@@ -27,6 +27,10 @@ IdleState, MoveState, JumpState — состояния игрока с собс�
 
 Интерфейсы IContact, IContactTrigger, IContactExit — гибкая система взаимодействия с объектами уровня.
 
+## 📷 Animation game play
+
+![Game Animation](rebball.gif)
+
 Платформы
 Desktop (PC/Mac)
 
